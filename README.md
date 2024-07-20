@@ -1,7 +1,7 @@
 # Soy Carlos Tunjano, que bueno que esté acá 👋
 En Github, y muchos otros espacios similares a este, soy caratungu, es algo así como un acrónimo 😄 de mi nombre **Car**los **A**ugusto **Tun**jano **Gu**tiérrez.
 
-## Acerca de mí
+## Acerca de mí 🌠🌠🌠
 Soy desarrollador junior web full stack, orientado al back-end, pero con interes completo en fullstack.
 
 Mi camino a este punto de mi vida tuvo un inicio un poco distinto:
@@ -17,9 +17,7 @@ Espero ansiosamente conseguir mi primer empleo en este campo, y así seguir apor
 ## ¿Cuáles tecnologías he usado? :computer:
 Como bien titulo, son las tecnologías que al momento he usado, pero siempre estoy dispuesto a prender nuevas, así que esta lista irá creciendo.
 
-<img src="./icons/bootstrap.png" alt="GitHub Logo" style="width:50px; height:50px;"><img src="./icons/css.png" alt="GitHub Logo" style="width:50px; height:50px;">
-<img src="./icons/git.png" alt="GitHub Logo" style="width:50px; height:50px;"><img src="./icons/github_icon.png" alt="GitHub Logo" style="width:50px; height:50px;"><img src="./icons/html.png" alt="GitHub Logo" style="width:50px; height:50px;">
-<img src="./icons/JS.png" alt="GitHub Logo" style="width:50px; height:50px;"><img src="./icons/mongodb.png" alt="GitHub Logo" style="width:50px; height:50px;"><img src="./icons/nest.png" alt="GitHub Logo" style="width:50px; height:50px;"><img src="./icons/node-js.png" alt="GitHub Logo" style="width:50px; height:50px;"><img src="./icons/postgresql.png" alt="GitHub Logo" style="width:50px; height:50px;"><img src="./icons/react.png" alt="GitHub Logo" style="width:50px; height:50px;"><img src="./icons/redux.png" alt="GitHub Logo" style="width:50px; height:50px;"><img src="./icons/swagger.png" alt="GitHub Logo" style="width:50px; height:50px;"><img src="./icons/ts.png" alt="GitHub Logo" style="width:50px; height:50px;">
+<img src="./icons/bootstrap.png" alt="GitHub Logo" style="width:50px; height:50px;"><img src="./icons/css.png" alt="GitHub Logo" style="width:50px; height:50px;"><img src="./icons/git.png" alt="GitHub Logo" style="width:50px; height:50px;"><img src="./icons/github_icon.png" alt="GitHub Logo" style="width:50px; height:50px;"><img src="./icons/html.png" alt="GitHub Logo" style="width:50px; height:50px;"><img src="./icons/JS.png" alt="GitHub Logo" style="width:50px; height:50px;"><img src="./icons/mongodb.png" alt="GitHub Logo" style="width:50px; height:50px;"><img src="./icons/nest.png" alt="GitHub Logo" style="width:50px; height:50px;"><img src="./icons/node-js.png" alt="GitHub Logo" style="width:50px; height:50px;"><img src="./icons/postgresql.png" alt="GitHub Logo" style="width:50px; height:50px;"><img src="./icons/react.png" alt="GitHub Logo" style="width:50px; height:50px;"><img src="./icons/redux.png" alt="GitHub Logo" style="width:50px; height:50px;"><img src="./icons/swagger.png" alt="GitHub Logo" style="width:50px; height:50px;"><img src="./icons/ts.png" alt="GitHub Logo" style="width:50px; height:50px;">
 
 
 ## Contáctame
