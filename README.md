@@ -16,21 +16,25 @@ Espero ansiosamente conseguir mi primer empleo en este campo, y así seguir apor
 
 ## ¿Cuáles tecnologías he usado? :computer:
 Como bien titulo, son las tecnologías que al momento he usado, pero siempre estoy dispuesto a prender nuevas, así que esta lista irá creciendo.
-- JavaScript
-- TypeScript
-- React.js
-- Node.js
-- Express.js
-- PostgreSQL
-- GIT
-- Nest.js
-- HTML
-- CSS
+
+<img src="./icons/bootstrap.png" alt="GitHub Logo" style="width:50px; height:50px;">
+<img src="./icons/css.png" alt="GitHub Logo" style="width:50px; height:50px;">
+<img src="./icons/git.png" alt="GitHub Logo" style="width:50px; height:50px;">
+<img src="./icons/github_icon.png" alt="GitHub Logo" style="width:50px; height:50px;">
+<img src="./icons/html.png" alt="GitHub Logo" style="width:50px; height:50px;">
+<img src="./icons/JS.png" alt="GitHub Logo" style="width:50px; height:50px;">
+<img src="./icons/mongodb.png" alt="GitHub Logo" style="width:50px; height:50px;">
+<img src="./icons/nest.png" alt="GitHub Logo" style="width:50px; height:50px;">
+<img src="./icons/node-js.png" alt="GitHub Logo" style="width:50px; height:50px;">
+<img src="./icons/postgresql.png" alt="GitHub Logo" style="width:50px; height:50px;">
+<img src="./icons/react.png" alt="GitHub Logo" style="width:50px; height:50px;">
+<img src="./icons/redux.png" alt="GitHub Logo" style="width:50px; height:50px;">
+<img src="./icons/swagger.png" alt="GitHub Logo" style="width:50px; height:50px;">
+<img src="./icons/ts.png" alt="GitHub Logo" style="width:50px; height:50px;">
+
 
 ## Contáctame
 Estoy dispuesto a dar todo de mi para sacar adelante cada proyecto en que me inviten:
 
-📧 caratungu@gmail.com
-
-🔗 [LinkedIn](www.linkedin.com/in/carlos-augusto-tunjano-gutiérrez-240b001b8)
-
+[<img src="./icons/gmail.png" alt="GitHub Logo" style="width:30px; height:30px;">](caratungu@gmail.com)
+[<img src="./icons/linkedin.png" alt="GitHub Logo" style="width:30px; height:30px;">](www.linkedin.com/in/carlos-augusto-tunjano-gutiérrez-240b001b8)
