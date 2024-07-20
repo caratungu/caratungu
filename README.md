@@ -23,5 +23,5 @@ Como bien titulo, son las tecnologías que al momento he usado, pero siempre est
 ## Contáctame
 Estoy dispuesto a dar todo de mi para sacar adelante cada proyecto en que me inviten:
 
-[<img src="./icons/gmail.png" alt="GitHub Logo" style="width:30px; height:30px;">](caratungu@gmail.com)
-[<img src="./icons/linkedin.png" alt="GitHub Logo" style="width:30px; height:30px;">](www.linkedin.com/in/carlos-augusto-tunjano-gutiérrez-240b001b8)
+[<img src="./icons/gmail.png" alt="GitHub Logo" style="width:30px; height:30px;">](mailto:caratungu@gmail.com)
+[<img src="./icons/linkedin.png" alt="GitHub Logo" style="width:30px; height:30px;">](https://www.linkedin.com/in/carlos-augusto-tunjano-guti%C3%A9rrez-240b001b8/)
