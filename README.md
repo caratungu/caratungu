@@ -25,3 +25,7 @@ Estoy dispuesto a dar todo de mi para sacar adelante cada proyecto en que me inv
 
 [<img src="./icons/gmail.png" alt="GitHub Logo" style="width:30px; height:30px;">](mailto:caratungu@gmail.com)
 [<img src="./icons/linkedin.png" alt="GitHub Logo" style="width:30px; height:30px;">](https://www.linkedin.com/in/carlos-augusto-tunjano-guti%C3%A9rrez-240b001b8/)
+
+## Algunas métricas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caratungu&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=caratungu&show_icons=true&theme=radical)
